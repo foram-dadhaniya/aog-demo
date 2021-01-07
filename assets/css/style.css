@@ -305,4 +305,7 @@ a:focus {
     .login-block .buttons .btn {
         margin: 0 0 0.5rem 0 !important;
     }
+    #screen1 .link-block{
+        margin-top: 0 !important;
+    }    
 }
